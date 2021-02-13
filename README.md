@@ -45,10 +45,10 @@ Player Assistance Mod and its obfuscation methods to accomplish our goals.
  How to install Future For Everyone™
 - 1. Go to https://github.com/CoolClientCollectorz/future-for-everyone/releases
 - 2. Scroll down to assets, open the dropdown, then download the top file
-- 3. Move the downloaded file into your mods folder
+- 3. Move the .jar file from the downloaded file into your mods folder
 - 4. Go to the installations tab in your launcher and click the 3 dots to the left of the forge installation then click edit
 - 5. On the next screen click 'more options' then add -noverify to the beginning of the JVM Arguments
-- 6. Click save, then run minecraft forge
+- 6. Click save, then run minecraft forge 1.12.2
  ## message
 Message to 0x/Kalju: dmca if ur a pedophile, a registered sex offender, british and if you groom children
 ccc 4eva :^)
